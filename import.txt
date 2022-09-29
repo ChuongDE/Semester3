@@ -1,0 +1,10 @@
+Pham Nguyen Thien Chuong:DE160221:chuong@fpt.edu:Da Nang:9.2:7.4:8.75:0:
+Le Minh Hoang:DE160226:hoang@fpt.edu:Ha Noi:8.2:6.6:7.8:0:
+Le Quoc Anh:DS157892:anh@fpt.edu:Sai Gon:7.2:8.4:7.6:1:
+Pham Thi Anh Tuyet:DS160253:tuyet@fpt.edu:Quang Tri:8.2:9.0:8.4667:1:
+Le Ngoc Tai:DE150245:tai@fpt.edu:Da Nang:7.0:5.6:6.65:0:
+Nguyen Tuan Ngoc:DS170272:ngoc@fpt.edu:Hue:8.0:6.8:7.6:1:
+Nguyen Ngoc Minh:DE166325:minh@fpt.edu:Ha Noi:9:10:9.25:0:
+Le Ngoc Thy:DS175234:thy@fpt.edu:Quang Tri:7.8:9.0:8.2:1:
+
+
